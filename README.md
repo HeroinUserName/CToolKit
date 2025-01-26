@@ -1,3 +1,5 @@
+# The script will be improved over time
+
 # CToolKit
 
 This script is a modular project designed to demonstrate core cybersecurity concepts such as encryption, access control, and threat detection in multiple programming languages. It loads configuration from a JSON file and runs specific scripts depending on the category (encryption, access control, or threat detection) and the programming language specified in the configuration file.
