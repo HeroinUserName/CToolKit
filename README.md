@@ -54,7 +54,8 @@ Python: pycryptodome, sklearn
 Java: spring-boot, oauth2
 C++: OpenSSL libraries for encryption
 Go: x/crypto
-JavaScript: crypto-js```
+JavaScript: crypto-js
+```
 # Running the Project
 To run the project:
 
