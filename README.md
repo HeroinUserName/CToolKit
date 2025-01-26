@@ -43,6 +43,7 @@ This structure separates the project into categories (encryption, access control
 
 
 # Requirements
+```
 Python (for Python-based scripts)
 Java (for Java-based scripts)
 Go (for Go-based scripts)
@@ -53,7 +54,7 @@ Python: pycryptodome, sklearn
 Java: spring-boot, oauth2
 C++: OpenSSL libraries for encryption
 Go: x/crypto
-JavaScript: crypto-js
+JavaScript: crypto-js```
 # Running the Project
 To run the project:
 
