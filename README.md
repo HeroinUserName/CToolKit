@@ -7,6 +7,7 @@ The project structure is organized into various folders for each category, conta
 
 # Project Structure:
 
+```
 CToolKit
 ├── encryption
 │   ├── python
@@ -36,6 +37,6 @@ CToolKit
 ├── config
 │   └── config.json
 └── main.py
-
+```
 This structure separates the project into categories (encryption, access control, and threat detection), with each category containing language-specific implementations (e.g., Python, Java, C++, etc.).
 
