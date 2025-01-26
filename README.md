@@ -51,7 +51,9 @@ Java (for Java-based scripts)
 Go (for Go-based scripts)
 C++ (for C++-based scripts)
 Node.js (for JavaScript-based scripts)
+```
 # Required libraries:
+```
 Python: pycryptodome, sklearn
 Java: spring-boot, oauth2
 C++: OpenSSL libraries for encryption
