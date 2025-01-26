@@ -1,0 +1,19 @@
+{
+    "encryption": {
+        "python": "aes_cbc.py",
+        "cpp": "rsa_encryption.cpp",
+        "javascript": "aes_gcm.js",
+        "go": "xchacha20.go"
+    },
+    "access_control": {
+        "python": "rbac.py",
+        "java": "oauth2_example.java",
+        "php": "session_auth.php",
+        "csharp": "api_key_authentication.cs"
+    },
+    "threat_detection": {
+        "python": "intrusion_detection.py",
+        "java": "anomaly_detection.java",
+        "go": "network_traffic.go"
+    }
+}
