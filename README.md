@@ -40,3 +40,27 @@ CToolKit
 ```
 This structure separates the project into categories (encryption, access control, and threat detection), with each category containing language-specific implementations (e.g., Python, Java, C++, etc.).
 
+
+
+# Requirements
+Python (for Python-based scripts)
+Java (for Java-based scripts)
+Go (for Go-based scripts)
+C++ (for C++-based scripts)
+Node.js (for JavaScript-based scripts)
+# Required libraries:
+Python: pycryptodome, sklearn
+Java: spring-boot, oauth2
+C++: OpenSSL libraries for encryption
+Go: x/crypto
+JavaScript: crypto-js
+# Running the Project
+To run the project:
+
+Install the necessary dependencies for each language.
+
+Ensure that the config.json file is correctly set up with the paths to the scripts.
+
+Run the main.py script to execute the different components based on the configuration file:
+```python main.py```
+
